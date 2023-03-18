@@ -1,0 +1,79 @@
+{
+
+    "name": "Tepthon",
+
+    "description": " اهلا بكم في تنصيب سورس الخليفه   !",
+
+    "logo" : "https://telegra.ph/file/1ea7773317d6dc310ba43.jpg",
+
+    "stack": "container",
+
+    "repository": "https://github.com/perdark/per-sed",
+
+    "keywords": [
+
+        "python",
+
+        "chatbot",
+
+        "telegrambot"
+
+    ],
+
+    "website": "https://github.com/SS7SS/Tepthon",
+
+    "env": {
+
+        "APP_ID": {
+
+            "description": "ايبي ايدي",
+
+            "value": "",
+
+            "required": true
+
+        },
+
+        "APP_HASH": {
+
+            "description": "ايبي هاش",
+
+            "value": "",
+
+            "required": true
+
+        },
+
+        "TERMUX": {
+
+            "description": "كود تيرمكس",
+
+            "value": "",
+
+            "required": true
+
+        },
+
+        "TOKEN": {
+
+            "description": "توكن البوت",
+
+            "value": "",
+
+            "required": true
+
+        },
+
+        "BOT_USERNAME": {
+
+            "description": "يوزر البوت بدون ـ@ـ",
+
+            "value": "",
+
+            "required": true
+
+        }
+
+    }
+
+}
