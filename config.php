@@ -1,14 +1,14 @@
 <?php
-$TOKEN = "5888787776:AAELtRuCIpYPMdQFui6c53Btti6AhV9N-Us"; // bot token
-$botUsername = "du2sbot"; // bot username without @
+$TOKEN = "5451838957:AAHNFP8voDQFvkbJRxuIeLqpGlFXSdTQ0Wc-Us"; // bot token
+$botUsername = "Malakiiiiiybot"; // bot username without @
 
 /*
 $databaseHost = "localhost";
 $databaseName = ""; // db name
-$databaseUsername = ""; // db username
-$databasePassword = ""; // db password
+$databaseUsername = "n"; // db username
+$databasePassword = "n"; // db password
 */
 
-$sudoID = ""; // sudo id
+$sudoID = "26445130"; // sudo id
 
 date_default_timezone_set("Asia/Riyadh");
